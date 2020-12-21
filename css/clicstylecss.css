@@ -15,15 +15,25 @@ button {
     cursor:pointer;
     padding:20px;
 }
+#back 
+    {
+    background-image: url("https://images.pexels.com/photos/114979/pexels-photo-114979.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+    background-size: cover;
+    }
+#relief {
+    padding: 30px;
+    font-size: 20px;
+}   
+
 #a {
     background-color: red;
 }
 
 button:hover {
-    background-color:#172bdd;
+    background-color:#a9acc2;
 }
 #resultat{
-    background-color:#1411c4;
+    background-color:#7e7d9e;
     color:white;
     font-size:50px;
     padding:4px;	
